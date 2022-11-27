@@ -1,3 +1,4 @@
 -Raunak singh says git is amazing.
 -Chandan
 -Example
+-This is an example of merge conflict
